@@ -1,9 +1,9 @@
-##This is my common project dependency
-###Usage
+## This is my common project dependency
+### Usage
 Add the repository and dependency to pom.xml
 
 ```
-	<repositories>
+    <repositories>
         <repository>
             <id>hxb-maven-repo</id>
             <url>https://raw.githubusercontent.com/hexinbang/maven-repo/master/common</url>
