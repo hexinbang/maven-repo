@@ -12,9 +12,9 @@ Add the repository and dependency to pom.xml
 ```
 
 ```
-	<dependency>
-		<groupId>com.hxb</groupId>
-		<artifactId>common</artifactId>
-		<version>1.0-SNAPSHOT</version>
-	</dependency>
+    <dependency>
+	<groupId>com.hxb</groupId>
+	<artifactId>common</artifactId>
+	<version>1.0-SNAPSHOT</version>
+    </dependency>
 ```
